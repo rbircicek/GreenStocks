@@ -1,1 +1,1 @@
-# GreenStocks
+# stocks-analysis
